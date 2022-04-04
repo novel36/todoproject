@@ -26,7 +26,7 @@ SECRET_KEY = 'e3sy_v9arq@1ad72rt8u4g5q5191ipclv8e!^q2af_b$qx5&y3'
 # DEBUG = True
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','fikadutodoapp.herokuapp.com']
 
 
 # Application definition
